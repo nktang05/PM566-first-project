@@ -8,4 +8,4 @@ This is the first project using git for PM566. This is a readme file. We are pra
 <img src="IMG_0639.jpg" alt="profile pic" width="40px">
 
 
- <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="profile pic" width="40px">
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnicolektang&psig=AOvVaw1jTukXLeAyRaAmrM7EfvnE&ust=1725731009215000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOi9v5HvrogDFQAAAAAdAAAAABAE" alt="profile pic" width="40px">
